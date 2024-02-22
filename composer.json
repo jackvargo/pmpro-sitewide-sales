@@ -1,0 +1,27 @@
+{
+    "name": "jackvargo/pmpro-sitewide-sales",
+    "description": "Note: This plugin is no longer maintained. Please update to Sitewide Sales: https://sitewidesales.com/modules/paid-memberships-pro/",
+    "type": "wordpress-plugin",
+    "homepage": "https://sitewidesales.com",
+    "require": {
+        "php": ">=7.0",
+        "johnpbloch/wordpress": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "strangerstudios",
+            "homepage": "https://github.com/strangerstudios"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/strangerstudios/pmpro-sitewide-sales",
+        "issues": "https://github.com/strangerstudios/pmpro-sitewide-sales/issues"
+    },
+    "extra": {
+        "original_repository": "https://github.com/strangerstudios/pmpro-sitewide-sales",
+        "stars": 2,
+        "watchers": 2,
+        "forks": 7,
+        "open_issues": 20
+    }
+}
